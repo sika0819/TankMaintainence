@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AllMianBan" size="0.247000 0.225034" />
+    <ImageTarget name="CeMian" size="0.247000 0.386197" />
+    <ImageTarget name="CeMian2" size="0.247000 0.386197" />
+    <ImageTarget name="panel" size="200.000000 111.433388" />
+  </Tracking>
+</QCARConfig>

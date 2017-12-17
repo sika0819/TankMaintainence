@@ -1,0 +1,7 @@
+VuforiaWrapper.dll
+MicStreamSelector.dll
+Vuforia.dll
+SharingClient.dll
+SpatialUnderstanding.dll
+PlaneFinding.dll
+AudioPluginMsHRTF.dll

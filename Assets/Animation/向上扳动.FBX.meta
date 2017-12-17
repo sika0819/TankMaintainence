@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 1a5fb9bc88e2b4b46abdc8e8af503dd4
+timeCreated: 1488944652
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arc003
+    100002: Circle026
+    100004: Circle027
+    100006: DADPLACEGROUP001
+    100008: Line005
+    100010: Sphere003
+    100012: "\u4E0B\u534A\u90E8\u5206"
+    100014: //RootNode
+    100016: "\u6273\u673A\u6309\u94AE002"
+    400000: Arc003
+    400002: Circle026
+    400004: Circle027
+    400006: DADPLACEGROUP001
+    400008: Line005
+    400010: Sphere003
+    400012: "\u4E0B\u534A\u90E8\u5206"
+    400014: //RootNode
+    400016: "\u6273\u673A\u6309\u94AE002"
+    2300000: Arc003
+    2300002: Circle026
+    2300004: Circle027
+    2300006: Line005
+    2300008: Sphere003
+    3300000: Arc003
+    3300002: Circle026
+    3300004: Circle027
+    3300006: Line005
+    3300008: Sphere003
+    4300000: Line005
+    4300002: Arc003
+    4300004: Sphere003
+    4300006: Circle027
+    4300008: Circle026
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DADPLACEGROUP001
+        weight: 1
+      - path: DADPLACEGROUP001/Line005
+        weight: 1
+      - path: "\u4E0B\u534A\u90E8\u5206"
+        weight: 1
+      - path: "\u4E0B\u534A\u90E8\u5206/\u6273\u673A\u6309\u94AE002"
+        weight: 1
+      - path: "\u4E0B\u534A\u90E8\u5206/\u6273\u673A\u6309\u94AE002/Arc003"
+        weight: 1
+      - path: "\u4E0B\u534A\u90E8\u5206/\u6273\u673A\u6309\u94AE002/Circle026"
+        weight: 1
+      - path: "\u4E0B\u534A\u90E8\u5206/\u6273\u673A\u6309\u94AE002/Circle027"
+        weight: 1
+      - path: "\u4E0B\u534A\u90E8\u5206/\u6273\u673A\u6309\u94AE002/Sphere003"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
